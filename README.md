@@ -1,6 +1,8 @@
 # HILL CIPHER
 HILL CIPHER
-EX. NO: 3 AIM:
+EX. NO: 3 
+
+AIM:
  
 
 IMPLEMENTATION OF HILL CIPHER
@@ -95,3 +97,5 @@ STEP-5: Combine all these groups to get the complete cipher text.
 
 
 ## RESULT
+
+THUS THE EXPECTED OUTPUT IS ACHIEVED.
